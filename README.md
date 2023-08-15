@@ -1,1 +1,1 @@
-# Simple Meme Generator that generates random memes using HTML,CSS,Javascript
+# Simple Meme Generator that generates random memes developed using HTML,CSS,Javascript
